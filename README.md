@@ -2,8 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=30:B296FF,50:C1D2DC&height=150&text=Hello!%20I'm%20Maddie&animation=twinkling&fontColor=FFFFFF&fontSize=40)
    
 # ABOUT ME
-  **안녕하세요.지속적인 성장을 하는 기획자를 꿈꾸고 있는 Maddie 입니다. 
-  전세계를 돌아다니면서 새로운 도전을 하며 살아가는 것 또한 제 꿈입니다.**
+  안녕하세요. 지속적인 성장을 하는 기획자를 꿈꾸고 있는 Maddie 입니다.
+  
+  전세계를 돌아다니면서 새로운 도전을 하며 살아가는 것 또한 제 꿈입니다.
   
 ![Alt text](https://windowscustomization.com/wp-content/uploads/2019/10/Lost-in-Space.gif)
 
@@ -20,18 +21,25 @@
 
 **2024.02~2024.06 ESTsoft AI서비스 기획 WASSUP 2기**
 * 프로젝트 1
+  
 * 프로젝트 2
+  
 * 프로젝트 3
+  
 * 프로젝트 4
   
    
 **2023.06 ~ 2023.12 메타버스 아카데미 2기 콘텐츠 기획**
 * 물리기반의 이삿짐 옮기기 무빙아웃 게임 모작 프로젝트 기획 참여
+  
 * 고수의 운전면허 기반의 VR 모의 운전 면허장 체험 프로젝트 기획 참여
+  
 * AI기반 다양한 배경의 커플 이미지 생성 서비스 프로젝트 기획 참여
+  
 * 실시간 3D 물건 생성 서비스 프로젝트 기획 참여
 
    
 **2022.01~ 2022.06 E-LAND CHINA 틱톡 프로젝트 인턴**
 * 틱톡 숏폼 콘텐츠 기획
+  
 * 틱톡 라이브 방송 상품 및 데이터 관리
