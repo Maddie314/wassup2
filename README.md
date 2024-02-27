@@ -17,7 +17,7 @@
 # STUDY
 <a href='https://www.notion.so/oreumi/6a8a77b182a046e39bf3d00617e28b90?pvs=4'><img src = 'https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white'>
   
-# PROJECT EXPERIENCES
+# PROJECT EXPERIENCE
 
 **2024.02~2024.06 ESTsoft AI서비스 기획 WASSUP 2기**
 * 프로젝트 1
