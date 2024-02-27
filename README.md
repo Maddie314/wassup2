@@ -1,13 +1,14 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=30:B296FF,50:C1D2DC&height=150&text=Hello!%20I'm%20Maddie&animation=blink&fontColor=FFFFFF&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=30:B296FF,50:C1D2DC&height=150&text=Hello!%20I'm%20Maddie&animation=twinkling&fontColor=FFFFFF&fontSize=40)
    
 # ABOUT ME
-  *안녕하세요.지속적인 성장을 하는 기획자를 꿈꾸고 있는 Maddie 입니다. 전세계를 돌아다니면서 새로운 도전을 하며 살아가는 것 또한 제 꿈입니다. 글로벌 인재가 되는 그 날까지..!*
+  **안녕하세요.지속적인 성장을 하는 기획자를 꿈꾸고 있는 Maddie 입니다. 
+  전세계를 돌아다니면서 새로운 도전을 하며 살아가는 것 또한 제 꿈입니다.**
+  
+![Alt text](https://windowscustomization.com/wp-content/uploads/2019/10/Lost-in-Space.gif)
 
 # CONTACT ME  
 <a href='https://www.instagram.com/shimn_/'><img src = 'https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'> <a href='https://github.com/Maddie314/wassup2.git'><img src = 'https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>
-   
-![Alt text](https://windowscustomization.com/wp-content/uploads/2019/10/Lost-in-Space.gif)
  
 # TOOLS & SKILLS
 <img src = 'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'> <img src = 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'> <img src ='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'> <img src ='https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white'> <img src ='https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white'>
