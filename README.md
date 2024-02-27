@@ -2,14 +2,15 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=30:B296FF,50:C1D2DC&height=150&text=Hello!%20I'm%20Maddie&animation=twinkling&fontColor=FFFFFF&fontSize=40)   
 
 # ABOUT ME 🧚‍♀️
-  *안녕하세요. 성장하는 기획자를 꿈꾸는 Maddie 입니다.*
+  >  *안녕하세요. 성장하는 기획자를 꿈꾸는 Maddie 입니다.*
   
-  *전세계를 돌아다니면서 새로운 도전을 하며 살아가는 것 또한 제 꿈입니다.*
+  >   *전세계를 돌아다니면서 새로운 도전을 하며 살아가는 것 또한 제 꿈입니다.*
 
+  * Major: Media and Communication
   
-  🙋‍♀️ MBTI: ENTJ or ENFJ
+  * MBTI: ENTJ or ENFJ   
   
-  🙋‍♀️ HABIT: 영화관에서 영화, 여행, 혼자 카페   
+  * HABIT: 영화관에서 영화, 여행, 혼자 카페   
   
 
 
@@ -18,7 +19,7 @@
 
 # CONTACT ME 🫶
 <a href='https://www.instagram.com/shimn_/'><img src = 'https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'> <a href='https://github.com/Maddie314/wassup2.git'><img src = 'https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>
-
+  
 # TOOLS & SKILLS 🤖
 <img src = 'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'> <img src = 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'> <img src ='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'> <img src ='https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white'> <img src ='https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white'>
    
@@ -27,7 +28,7 @@
   
 # PROJECT EXPERIENCE ✨
 
-**2024.02~2024.06 ESTsoft AI서비스 기획 WASSUP 2기**
+**2024.02~2024.06 ESTsoft AI서비스 기획 WASSUP 2기**   
 * 프로젝트 1
   
 * 프로젝트 2
