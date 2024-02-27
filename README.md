@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=30:B296FF,50:C1D2DC&height=150&text=Hello!%20I'm%20Maddie&animation=fadeIn&fontColor=FFFFFF&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=30:B296FF,50:C1D2DC&height=150&text=Hello!%20I'm%20Maddie&animation=blink&fontColor=FFFFFF&fontSize=40)
    
  # ABOUT ME
   **안녕하세요.지속적인 성장을 하는 기획자를 꿈꾸고 있는 Maddie 입니다. 전세계를 돌아다니면서 새로운 도전을 하며 살아가는 것 또한 제 꿈입니다. 글로벌 인재가 되는 그 날까지..!**
