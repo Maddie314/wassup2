@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=30:B296FF,50:C1D2DC&height=150&text=Hello!%20I'm%20Maddie&animation=twinkling&fontColor=FFFFFF&fontSize=40)
    
 # ABOUT ME
-  안녕하세요. 성장하는 예비 기획자 Maddie 입니다.
+  안녕하세요. 성장하는 기획자를 꿈꾸는 Maddie 입니다.
   
   전세계를 돌아다니면서 새로운 도전을 하며 살아가는 것 또한 제 꿈입니다.
   
