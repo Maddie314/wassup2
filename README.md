@@ -14,7 +14,7 @@
   
 
 
-![Alt text](https://windowscustomization.com/wp-content/uploads/2019/10/Lost-in-Space.gif)
+<img src='https://windowscustomization.com/wp-content/uploads/2019/10/Lost-in-Space.gif' width="60%" height="50%"></img>
 
 
 # CONTACT ME 🫶
